@@ -152,7 +152,7 @@ In this example we check the value of `StringAttribute` and then apply the class
 
 ### 4.7 Wrap Text
 
-You can choose if you want to wrap the text content of a column and apply ellipsis in the end of it.
+You can choose if you want to wrap the text content of a column, otherwise the text will be truncated with ellipsis at the end of it.
 
 {{% alert color="info" %}}
 If you are using **Custom content** in the **Show** option of the **General** tab, please make sure you are using a **Text Widget** without containers around it. Containers sometimes interfere with wrapping texts.
